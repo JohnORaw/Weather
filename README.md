@@ -8,7 +8,7 @@ Generic code has also been written to download weather data dynamically from
 - [OpenMeteo](./forecast/7day.py)
 
 # Dependencies
-Clone the project from this repo and then follow the [instructions](./manifest/prereqs.md) to create a venv and prerequisites. 
+Clone the project from this repo and then follow the [instructions](./prereqs/prereqs.md) to create a venv and prerequisites. 
 
 # Maintainer
 This is a work in progress by the repo owner

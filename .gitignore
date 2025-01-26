@@ -170,3 +170,22 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+myenv/pyvenv.cfg
+myenv/pyvenv.cfg
+myenv/Scripts/activate
+myenv/Scripts/activate.bat
+myenv/Scripts/Activate.ps1
+myenv/Scripts/deactivate.bat
+myenv/Scripts/f2py.exe
+myenv/Scripts/fonttools.exe
+myenv/Scripts/normalizer.exe
+myenv/Scripts/numpy-config.exe
+myenv/Scripts/pip.exe
+myenv/Scripts/pip3.12.exe
+myenv/Scripts/pip3.exe
+myenv/Scripts/pyftmerge.exe
+myenv/Scripts/pyftsubset.exe
+myenv/Scripts/python.exe
+myenv/Scripts/pythonw.exe
+myenv/Scripts/ttx.exe
+myenv/share/man/man1/ttx.1
